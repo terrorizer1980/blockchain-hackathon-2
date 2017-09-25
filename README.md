@@ -5,6 +5,10 @@ BInEHR
 ### Summary
 An electronic health record system, built on blockchain. Transparent. Secure. Immutable.
 
+### Screenshot
+
+![screenshot](pics/bh2.jpg)
+
 NOTE: This repo is just for the back-end. Client-side code is [here](https://github.com/cktang88/blockchain-hackathon-client)
 
 ### The Need
@@ -14,6 +18,10 @@ Currently, EHR systems in hospitals are problematic. They are hacked often (just
 
 ### Tech-stack
 Hyperledger Composer, Fabric, and Playground for the blockchain, with jQuery+Bootstrap on the front.
+
+### Architecture
+
+![screenshot](pics/bh1.jpg)
 
 ### Contributors
 Built in 24hrs for the Distributed Health Hackathon
