@@ -1,0 +1,11 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "composers/package.json",
+        "fabric-tools/composer-data/fabric-dev-servers/package.json",
+        "fabric-tools/package.json"
+      ]
+    }
+  }
+}
