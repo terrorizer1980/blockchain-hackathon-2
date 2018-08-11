@@ -1,5 +1,8 @@
 BInEHR
 ---
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/cktang88/blockchain-hackathon.svg)](https://greenkeeper.io/)
+
 > Blockchain-Integrated Electronic Health System
 
 ### Summary
